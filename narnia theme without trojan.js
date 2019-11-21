@@ -30,7 +30,7 @@ $(document).ready(function() {
  
  var script=document.createElement('script');
 script.type='text/javascript';
-script.src="https://raw.githubusercontent.com/cindyconsidine/narnia-theme-js-without-trojan-redirect/master/js);
+script.src=("https://raw.githubusercontent.com/cindyconsidine/narnia-theme-js-without-trojan-redirect/master/js");
 
 $("body").append(script);
 
